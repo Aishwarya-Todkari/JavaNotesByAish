@@ -33,40 +33,37 @@ This repository is designed to:
 - Transition from beginner → industry-ready developer
 
 ---
-
- 📚 Topics Covered
+📚 Topics Covered
 
 1️⃣ Java Fundamentals
-- Data Types & Variables
-- Control Statements
-- Methods & Recursion
-- Exception Handling
 
+Data Types & Variables
+Control Statements
+Methods & Recursion
+Exception Handling
 2️⃣ Object-Oriented Programming
-- Encapsulation
-- Abstraction
-- Inheritance
-- Polymorphism
-- SOLID Principles
 
+Encapsulation
+Abstraction
+Inheritance
+Polymorphism
+SOLID Principles
 3️⃣ JVM Internals
-- Class Loading Mechanism
-- Stack vs Heap Memory
-- Method Area
-- Garbage Collection
-- Memory Leaks
 
+Class Loading Mechanism
+Stack vs Heap Memory
+Method Area
+Garbage Collection
+Memory Leaks
 4️⃣ Advanced Concepts
-- Collections Framework
-- Multithreading
-- Synchronization
-- Streams & Lambda Expressions
 
----
+Collections Framework
+Multithreading
+Synchronization
+Streams & Lambda Expressions
 👤 Author
 
-Aishwarya Todkari 
-GitHub: https://github.com/Aishwarya-Todkari
+Aishwarya Todkari GitHub: https://github.com/Aishwarya-Todkari
 
 LinkedIn:https://www.linkedin.com/in/aishwaryamtodkari
 
