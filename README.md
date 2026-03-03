@@ -11,7 +11,7 @@ Interview preparation
 
 Developers revising fundamentals
 
-🔹 What You’ll Learn
+🔹 What You’ll Learn.
 
 Bullet list of outcomes.
 
